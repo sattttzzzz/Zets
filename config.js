@@ -6,20 +6,20 @@ global.xteam = 'apivproject'
 global.lolhuman = 'yourkey'
 
 //stick
-global.author = 'Follow Instagram\n  @naando.io  '
-global.packname = 'zets - bot\n'
+global.author = 'Follow Instagram\n  @onlyskyyyy_  '
+global.packname = 'Panda - bot\n'
 
 //Link
-global.gc = 'https://bit.ly/3KMlmv2'
+global.gc = 'https://chat.whatsapp.com/Ceyf9fqMNWe9nHC7dG9Fag'
 global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
+global.linkgc = 'https://chat.whatsapp.com/Ceyf9fqMNWe9nHC7dG9Fag'
 
 // Othr
-global.owner = ['6281252848955']
+global.owner = ['6288213793536']
 global.premium = ['0']
-global.ownername = 'znan'
-global.botname = 'zets - bot'
-global.wm = '© zets'
+global.ownername = 'Sattzzzz'
+global.botname = 'Pandabot'
+global.wm = '© Satt'
 global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴢᴇᴛꜱ ッ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
